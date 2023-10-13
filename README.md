@@ -4,7 +4,7 @@
 * 🎓 Образование:
   - Skillfactory (Специалист): 20.09.23 - "Специалист по Data Scienсe";
   - МАТИ (Аспирант): 28.06.07 - "Нейронные сети в задачах распознавания изображений";
-  - МАТИ (Бакалавр): 28.06.04 - "Прикладная математика, механика и информатика".
+  - МАТИ (Магистр): 28.06.04 - "Прикладная математика, механика и информатика".
 * 💻 В разное время писал код на: Basic, Pascal, Assembler, Delphi, C, C++, MQL - теперь на Python.
 * 🏆 IronMan.
 
@@ -14,7 +14,7 @@
 
 ### 🆔 Контакты
 * [Telegram](https://t.me/cygneblanc)
-* [LinkedIn](https://www.linkedin.com/in/stanislove-bardychev-2a5983b6/)
+* [LinkedIn](https://www.linkedin.com/in/stasbard)
 * [Kaggle](https://www.kaggle.com/stasbard)
 
 ---
@@ -25,7 +25,7 @@
 * 🎓 Education:
   - Skillfactory (Specialist): 20.09.23 - "Data Science Specialist";
   - MATI (PhD candidate): 28.06.07 - "Neural Networks in Image Recognition Tasks";
-  - MATI (Bachelor): 28.06.04 - "Applied Mathematics, Mechanics, and Computer Science".
+  - MATI (Master's degree): 28.06.04 - "Applied Mathematics, Mechanics, and Computer Science".
 * 💻 At different times, I wrote code in: Basic, Pascal, Assembler, Delphi, C, C++, MQL - now in Python.
 * 🏆 IronMan.
 
@@ -35,6 +35,6 @@
   
 ### 🆔 Contacts
 * [Telegram](https://t.me/cygneblanc)
-* [LinkedIn](https://www.linkedin.com/in/stanislove-bardychev-2a5983b6/)
+* [LinkedIn](https://www.linkedin.com/in/stasbard)
 * [Kaggle](https://www.kaggle.com/stasbard)
 
